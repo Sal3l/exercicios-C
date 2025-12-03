@@ -1,5 +1,6 @@
 
-// Comparação entre dois números
+// Comparação entre dois números :
+// Receba dois int e diga qual é o maior ou se são iguais
 
 #include <stdio.h> 
 

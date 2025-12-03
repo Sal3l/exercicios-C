@@ -1,5 +1,6 @@
 
-// Verifique par ou ímpar
+// Verifique par ou ímpar :
+// Receba um int do usuário e diga se ele é par ou ímpar
 
 #include <stdio.h> 
 

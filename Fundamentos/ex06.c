@@ -1,5 +1,6 @@
 
-// Calcule o dobro e o triplo de um número
+// Calcule o dobro e o triplo de um número :
+// Peça para o usuário digitar um número inteiro. Calcule e imprima o dobro e o triplo dele
 
 #include <stdio.h> 
 

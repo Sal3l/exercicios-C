@@ -1,5 +1,6 @@
 
-// Divisão com resultado decimal
+// Divisão com resultado decimal :
+// Receba dois números e divida o primeiro pelo segundo. Mostre o resultado como float
 
 #include <stdio.h> 
 

@@ -1,5 +1,6 @@
 
-// Média de dois números
+// Média de dois números :
+// Peça dois float para o usuário e mostre a média aritmética
 
 #include <stdio.h> 
 
