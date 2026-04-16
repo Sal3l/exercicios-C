@@ -1,6 +1,7 @@
 
-// Faça uma calculadora simples
-// Receba dois float e mostre: soma - subtração - multiplicação - divisão
+
+// Receba dois float e mostre:
+// soma - subtração - multiplicação - divisão
 
 #include <stdio.h> 
 

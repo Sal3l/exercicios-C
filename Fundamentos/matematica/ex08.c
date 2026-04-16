@@ -1,6 +1,7 @@
 
 // Concatene um caractere e um número :
-// Mostre na tela: "A letra é A e o número é 10" — usando char e int
+// Peça para o usuário digitar uma letra e um número
+// Mostre na tela: "A letra é A e o número é 10"
 
 #include <stdio.h> 
 

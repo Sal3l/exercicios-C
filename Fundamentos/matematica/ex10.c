@@ -17,7 +17,9 @@ int main() {
  
         printf("%i é negativo e/ou maior que 100\n\n", num1); 
  
-    } if (num2 < 100 && num2 > 0) { 
+    } 
+    
+    if (num2 < 100 && num2 > 0) { 
  
         printf("%i é positivo e menor que 100\n\n", num2); 
  

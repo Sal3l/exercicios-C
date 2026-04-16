@@ -1,6 +1,7 @@
 
-// Média de três notas e resultado
-// Receba três notas float e diga se a média é maior ou igual a 7 (aprovado) ou não (reprovado)
+// Receba três notas float 
+// e diga se a média é maior ou igual a 7
+// (aprovado) ou não (reprovado)
 
 #include <stdio.h> 
 
